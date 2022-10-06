@@ -1,0 +1,38 @@
+body {
+    border: 5px solid black;
+    font-family: sans-serif;
+    line-height: 1.4;
+}
+
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+a:link {
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.ship {
+    font-size: 12px;
+}
+
+button {
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+}
